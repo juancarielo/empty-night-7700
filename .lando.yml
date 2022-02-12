@@ -1,0 +1,13 @@
+name: 'empty-night-7700'
+recipe: pantheon
+config:
+  framework: 'drupal'
+  id: '9e6752a7-2a98-4a41-bb68-77bd6bc8d53f'
+  site: 'empty-night-7700'
+  xdebug: false
+  index: false
+  edge: false  
+  cache: false
+  composer_version: '2'
+env_file:
+  - .env
